@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Binod
-- 👀 I’m interested in Cloud, devope, SRE
+- 👀 I’m interested in Cloud, devope, & SRE
 - 🌱 I’m currently learning Blockchain 
 - 💞️ I’m looking to collaborate on Docker, kubernetes and cloud
 - 📫 How to reach me https://www.linkedin.com/in/binodmishra25/
