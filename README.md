@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binod </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate cloud and devops enginer from India</h3>
 
 - 💬 Ask me about **Devops, Cloud, AI, ML**
 
