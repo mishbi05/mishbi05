@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Binod Mishra</h1>
+<h1 align="center">Hi 👋, I'm Binod </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **Devops, cloud, AI, ML**
+- 💬 Ask me about **Devops, Cloud, AI, ML**
 
 - 📫 How to reach me **binodmishra25@gmail.com**
 
