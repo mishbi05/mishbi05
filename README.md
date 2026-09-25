@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Binod Mishra</h1>
 <h3 align="center">A passionate Cloud, devops engineer</h3>
 
-- 💬 Ask me about **Devops, cloud, AI, ML**
+Ask me about **Devops, cloud, AI, ML**
 
-- 📫 How to reach me **mishirbinod@gmail.com**
+How to reach me **mishirbinod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
