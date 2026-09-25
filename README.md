@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binod Mishra</h1>
-<h3 align="center">A passionate Cloud, devops engineer from India</h3>
+<h3 align="center">A passionate Cloud, devops engineer</h3>
 
 - 💬 Ask me about **Devops, cloud, AI, ML**
 
