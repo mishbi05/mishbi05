@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Devops, cloud, AI, ML**
 
-- 📫 How to reach me **binodmishra25@gmail.com**
+- 📫 How to reach me **mishirbinod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
